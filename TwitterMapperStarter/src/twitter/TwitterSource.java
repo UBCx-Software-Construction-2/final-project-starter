@@ -5,9 +5,7 @@ import util.ImageCache;
 
 import java.util.*;
 
-/**
- * Created by norm on 2017-09-22.
- */
+
 public abstract class TwitterSource {
     protected boolean doLogging = true;
     // The set of terms to look for in the stream of tweets

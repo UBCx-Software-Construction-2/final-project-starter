@@ -9,9 +9,7 @@ import java.util.Date;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-/**
- * Created by norm on 2017-09-21.
- */
+
 public class TestFilters {
     @Test
     public void testBasic() {

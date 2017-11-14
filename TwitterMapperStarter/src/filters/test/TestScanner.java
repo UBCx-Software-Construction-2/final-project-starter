@@ -5,9 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-/**
- * Created by norm on 2017-09-21.
- */
+
 public class TestScanner {
     @Test
     public void testBasic() {

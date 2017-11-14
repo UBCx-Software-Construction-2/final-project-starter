@@ -5,7 +5,6 @@ package filters;
  * Throws a SyntaxError exception on failure.
  *
  * This is a top-down recursive descent parser (a.k.a., LL(1))
- * Take CPSC 411 to learn how to do this.
  *
  * The really short explanation is that an LL(1) grammar can be parsed by a collection
  * of mutually recursive methods, each of which is able to recognize a single grammar symbol.

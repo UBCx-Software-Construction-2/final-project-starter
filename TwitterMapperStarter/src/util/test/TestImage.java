@@ -5,9 +5,7 @@ import util.Util;
 
 import java.awt.image.BufferedImage;
 
-/**
- * Created by norm on 2017-09-22.
- */
+
 public class TestImage {
     @Test
     public void testImage() {

@@ -2,9 +2,7 @@ package util;
 
 import java.io.*;
 
-/**
- * Created by norm on 2017-09-22.
- */
+
 public class ObjectSink {
     private File file;
     private ObjectOutputStream outstream;
